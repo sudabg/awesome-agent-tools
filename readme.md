@@ -39,6 +39,8 @@
 
 - [mcporter](https://github.com/sammcj/mcporter) - OpenClaw MCP 桥接工具。通过 HTTP/stdio 调用 MCP server。
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - 官方 MCP server 集合。
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO and Google Ads skills. Connects Search Console, PageSpeed Insights, and Google Ads API.
+
 
 ## 安全研究
 
