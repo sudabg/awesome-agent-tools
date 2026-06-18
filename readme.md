@@ -63,6 +63,7 @@
 - [web-scraper](https://github.com/skillhub/web-scraper) - BeautifulSoup + Selenium 爬虫框架。速率限制、自动重试、robots.txt 合规。
 - [Playwright](https://github.com/microsoft/playwright) - 浏览器自动化，跨浏览器支持。
 - [n8n](https://github.com/n8n-io/n8n) - 开源工作流自动化，400+ 集成。
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) - Hermes Agent 原生 X/Twitter 自动化插件，支持搜索、读取和受控发帖。
 
 ## 部署运维
 
