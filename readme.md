@@ -34,6 +34,7 @@
 - [MemOS](https://github.com/nicepkg/memos) - OpenClaw 插件级记忆系统。备选方案。
 - [Mem0](https://github.com/mem0ai/mem0) - 通用记忆层，支持多 Agent 框架。⭐50k+。
 - [Letta](https://github.com/letta-ai/letta) - 有状态 Agent 框架，高级记忆管理。⭐21k+。
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - 本地优先的编码 Agent 记忆生命周期工具。Rust CLI/TUI，SQLite/FTS 单机存储，支持 recall、evidence、audit、redact/forget。
 
 ## MCP 工具
 
