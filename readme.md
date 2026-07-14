@@ -25,6 +25,7 @@
 - [OpenClaw](https://github.com/openclaw/openclaw) - 开源 Agent 运行时，支持多渠道(飞书/Discord/Telegram)、技能系统、cron任务。
 - [Claude Code](https://claude.ai/code) - Anthropic 官方编程助手，CLI 模式。
 - [Cursor](https://cursor.sh) - AI-first 代码编辑器，内置 Agent 模式。
+- [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) - 将受限的本地 Agent 或自动化发布为带密钥的可信局域网能力，保留发布端源码与凭据。
 
 ## 记忆系统
 
