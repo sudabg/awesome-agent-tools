@@ -39,6 +39,7 @@
 
 - [mcporter](https://github.com/sammcj/mcporter) - OpenClaw MCP 桥接工具。通过 HTTP/stdio 调用 MCP server。
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - 官方 MCP server 集合。
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 ## 安全研究
 
