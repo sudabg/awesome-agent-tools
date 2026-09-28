@@ -34,6 +34,7 @@
 - [MemOS](https://github.com/nicepkg/memos) - OpenClaw 插件级记忆系统。备选方案。
 - [Mem0](https://github.com/mem0ai/mem0) - 通用记忆层，支持多 Agent 框架。⭐50k+。
 - [Letta](https://github.com/letta-ai/letta) - 有状态 Agent 框架，高级记忆管理。⭐21k+。
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - 开发者 Alpha 阶段的 Rust 知识存储，支持加密、仅追加记录和带范围及有效期限制的 MCP 访问.
 
 ## MCP 工具
 
