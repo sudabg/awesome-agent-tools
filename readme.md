@@ -39,6 +39,7 @@
 
 - [mcporter](https://github.com/sammcj/mcporter) - OpenClaw MCP 桥接工具。通过 HTTP/stdio 调用 MCP server。
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - 官方 MCP server 集合。
+- [agent-qa](https://vostride.com) - 面向 Web、Android 和 iOS 的自然语言测试工具，提供 MCP 接口，以持久记忆引擎和经验证的自我改进复用测试经验。
 
 ## 安全研究
 
