@@ -57,6 +57,7 @@
 - [etl-pipeline](https://github.com/skillhub/etl-pipeline) - 生产级 ETL 流水线。Great Expectations 验证，支持 CSV/JSON/API。
 - [pandas](https://github.com/pandas-dev/pandas) - Python 数据处理核心库。
 - [DuckDB](https://github.com/duckdb/duckdb) - 嵌入式分析数据库，适合单机大数据查询。
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Free open API with no key at [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
 
 ## 自动化
 
